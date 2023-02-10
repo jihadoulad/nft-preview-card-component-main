@@ -1,0 +1,83 @@
+body {
+    font-size: 16px;
+    font-family: 'Outfit';
+    padding: 100px 531px;
+    background-color: hsl(217, 54%, 11%);
+    
+
+}
+
+h5 {
+    color: hsl(0, 0%, 100%);
+    margin-top: 5px;
+}
+
+p {
+    display: inline;
+    color: hsl(0, 0%, 100%);
+}
+
+hr {
+    width: 265px;
+    background-color: hsl(215, 32%, 27%);
+}
+
+span {
+    color: hsl(215, 51%, 70%);
+}
+
+.card {
+    padding: 18px;
+    border-radius: 15px;
+    background-color: hsl(216, 50%, 16%);
+}
+
+.card-body {
+    padding: 16px 0px;
+    
+}
+
+.card-text {
+    display: block;
+    color: hsl(215, 51%, 70%);
+    margin-top: 15px;
+   
+    
+}
+
+.top-card-img {
+    border-radius: 8px;
+}
+
+.avatar {
+    width: 25px;
+    padding-bottom: 1px;
+    margin-right: 8px;
+}
+
+.eth-price {
+    margin-right: 90px;
+    color: hsl(178, 100%, 50%);
+    font-size: 15px;
+}
+
+.eth-icon {
+    padding-bottom: 5px;
+    width: 10px;
+    margin-right: 2px;
+}
+
+.clock-icon {
+    width: 15px;
+    padding-bottom: 4px;
+    margin-right: 2px;
+}
+
+.days-text {
+    color: hsl(215, 51%, 70%);
+    font-size: 15px;
+}
+
+.footer-text {
+    font-size: 14px;
+}
